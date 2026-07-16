@@ -1,1 +1,1 @@
-plugin_prueba.py|Plugin para ver si furula|IzanPROXGAMER
+plugin_prueba.py|Plugin de prueba|IzanPROXGAMER
