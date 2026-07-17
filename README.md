@@ -18,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
+file:///C:/Users/Amparo/Pictures/Screenshots/Captura%20de%20pantalla%20(57).png
+
 ###
 
 <p data-importer="text" align="left">Agradecimientos a Theme Plaza por la inspiración</p>
