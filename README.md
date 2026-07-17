@@ -20,6 +20,7 @@
 
 ###
 
+https://github.com/IzanPROXGAMER/Luigi-Prox-Community/blob/main/preview.png
 <p data-importer="text" align="left">Agradecimientos a Theme Plaza por la inspiración</p>
 
 ###
