@@ -10,7 +10,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Lo e creado con:</h2>
+<h2 data-importer="text" align="left">Lo estoy creado con:</h2>
 
 ###
 
