@@ -30,5 +30,5 @@ https://github.com/IzanPROXGAMER/Luigi-Prox-Community/blob/main/preview.png
 **INFORMACIÓN IMPROTANTE**:
 
 * El proyecto está casi terminado.
-Está siendo hecho con Custom Tkinter.
-Es posible que se lance antes del 25/7/2026.  
+* Está siendo hecho con Custom Tkinter.
+* Es posible que se lance antes del 25/7/2026.  
