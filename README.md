@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">Tiene como objetivo ser una app comunidad estilo "Theme Plaza" en donde podrás subir, descargar plugins para Luigi Assiatnt, ver noticias de apps así como nuevas o actualizaciones</p>
+<p data-importer="text" align="left">Tiene como objetivo ser una app comunidad estilo "Theme Plaza" en donde podrás subir y descargar plugins para Luigi Assistant, ver noticias de apps así como nuevas o actualizaciones...</p>
 
 ###
 
@@ -29,6 +29,6 @@ https://github.com/IzanPROXGAMER/Luigi-Prox-Community/blob/main/preview.png
 
 **INFORMACIÓN IMPROTANTE**:
 
-El proyecto está casi terminado.  
-Está siendo hecho con Custom Tkinter.  
+* El proyecto está casi terminado.
+Está siendo hecho con Custom Tkinter.
 Es posible que se lance antes del 25/7/2026.  
