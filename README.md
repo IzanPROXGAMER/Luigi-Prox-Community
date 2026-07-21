@@ -35,4 +35,5 @@ https://github.com/IzanPROXGAMER/Luigi-Prox-Community/blob/main/preview.png
 
 **NOTICIAS ACTUALES**:
 
-La APP está un 80% terminada, solo falta terminar unas cosas y conectar con github para descargar cosas desde la app :)
+* La APP está un 80% terminada, solo falta terminar unas cosas y conectar con github para descargar cosas desde la app :)
+* Vendrá con dos nuevas extensiones de archivo solo compatibles con la app y en un futuro con otras apps mías
