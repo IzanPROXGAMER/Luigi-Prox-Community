@@ -32,3 +32,7 @@ https://github.com/IzanPROXGAMER/Luigi-Prox-Community/blob/main/preview.png
 * El proyecto está casi terminado.
 * Está siendo hecho con Custom Tkinter.
 * Es posible que se lance antes del 25/7/2026.  
+
+**NOTICIAS ACTUALES**:
+
+La APP está un 80% terminada, solo falta terminar unas cosas y conectar con github para descargar cosas desde la app :)
