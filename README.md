@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">Se lanzará la primera versión de la app (1.0.0) alrededor del 25/7/2026.<br><br>Sigue en proceso de creación...</p>
+<p data-importer="text" align="left">Se lanzará la primera versión de la app (1.0.0) ~~alrededor del 25/7/2026~~.<br><br>Sigue en proceso de creación...</p>
 
 ###
 
