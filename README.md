@@ -24,8 +24,8 @@
 
 ###
 
-<p data-importer="text" align="left">Para ver un avance de como va el proyecto:
-https://github.com/IzanPROXGAMER/Luigi-Prox-Community/blob/main/preview.png
+<img width="1366" height="768" alt="preview 2" src="https://github.com/user-attachments/assets/06233dcd-ef2e-4099-bd6d-0da98c8f9aa5" />
+
 
 **INFORMACIÓN IMPROTANTE**:
 
