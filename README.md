@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">Se lanzará la primera versión de la app (1.0.0). <del>alrededor del 25/7/2026</del> El lanzamiento previsto para finales de julio se ha retrasado unos días de forma indefinida para terminar la integración con GitHub y realizar las pruebas finales. Gracias por la paciencia.<br><br>Sigue en proceso de creación...</p>
+<p data-importer="text" align="center"><strong>La aplicación va a ser lanzada en unos minutos</strong>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Lo estoy creado con:</h2>
+<h2 data-importer="text" align="left">Lo e creado con:</h2>
 
 ###
 
@@ -29,11 +29,10 @@
 
 **INFORMACIÓN IMPROTANTE**:
 
-* El proyecto está casi terminado.
-* Está siendo hecho con Custom Tkinter.
-* Es posible que se lance antes del 25/7/2026.  
+* El proyecto está terminado.
+* Está hecho con Custom Tkinter.  
 
 **NOTICIAS ACTUALES**:
 
-* La APP está un 80% terminada, solo falta terminar unas cosas y conectar con github para descargar cosas desde la app :)
+* La APP está un 99% terminada, solo falta crear el archivo .exe y publicarlo :)
 * Vendrá con dos nuevas extensiones de archivo solo compatibles con la app y en un futuro con otras apps mías
